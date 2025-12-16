@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 
 =======
-# zipp.ai_case2
+# AI Chatbot
 
 >>>>>>> 4fc6336e3550c3506cc661364d3fc18e361c6db9
 # 🧠 Local AI Chatbot with RAG (Retrieval-Augmented Generation)
