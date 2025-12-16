@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 # zipp.ai_case2
 
@@ -176,7 +176,7 @@ This project is open-source and free to use for learning and research.
 
 ## 🙋‍♂️ Author
 
-Made by Gurmeet Singh Rathor
+Made by Deepanshu Choudhary
 =======
 # zipp_ai_task
 >>>>>>> 2a675aa7c3baf99282c37a1413d6beb39923e8c9
